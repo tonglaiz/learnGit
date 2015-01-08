@@ -1,3 +1,5 @@
+http://git-scm.com
+
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 git config --global user.name ""
@@ -91,3 +93,5 @@ git push origin :refs/tags/<tagname>
 git config --global color.ui true
 
 .gitignore
+
+git config --global alias.st status
