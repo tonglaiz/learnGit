@@ -38,4 +38,10 @@ git checkout dev
 
 git branch
 
+git merge dev
+
+git branch -d dev
+
+Creating a new branch is quick AND simple.
+
 
