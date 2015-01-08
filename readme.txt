@@ -44,3 +44,5 @@ git branch -d dev
 
 git log --graph --pretty=oneline --abbrew-commit
 
+merge
+
