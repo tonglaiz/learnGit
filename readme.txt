@@ -56,3 +56,38 @@ git stash pop
 
 git stash list
 
+git checkout -b feature-vulcan
+
+git branch -d feature-vulcan
+
+git branch -D feature-vulcan
+
+git remote -v
+
+git push origin master
+
+git push origin dev
+
+git clone git@github.com/tonglaiz/learnGit.git
+
+git pull
+
+git branch --set-upstream dev origin/dev
+
+git tag v1.0
+
+git tag -a "" -m ""
+
+git show <tagname>
+
+git tag -d <tagname>
+
+git push origin <tagname>
+
+git push origin --tags
+
+git push origin :refs/tags/<tagname>
+
+git config --global color.ui true
+
+.gitignore
