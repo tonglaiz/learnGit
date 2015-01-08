@@ -44,5 +44,15 @@ git branch -d dev
 
 git log --graph --pretty=oneline --abbrew-commit
 
-merge
+git merge --no-ff -m "merge with no-ff" dev
+
+git status
+
+git stash apply
+
+git stash drop
+
+git stash pop
+
+git stash list
 
