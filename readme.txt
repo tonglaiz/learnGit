@@ -42,5 +42,5 @@ git merge dev
 
 git branch -d dev
 
-Creating a new branch is quick and simple.
+git log --graph --pretty=oneline --abbrew-commit
 
